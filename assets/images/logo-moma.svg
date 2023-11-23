@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="lg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154.63 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #314e9e;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #f40000;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="38.37 39 0 39 0 0 18.97 8.22 38.37 0 38.37 39"/>
+  <polygon class="cls-2" points="114.1 39 75.73 39 75.73 0 94.71 8.22 114.1 0 114.1 39"/>
+  <circle class="cls-1" cx="56.97" cy="20.58" r="18.42"/>
+  <polygon class="cls-1" points="134.59 39 114.55 39 124.57 19.65 134.59 .3 144.61 19.65 154.63 39 134.59 39"/>
+</svg>
